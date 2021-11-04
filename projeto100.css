@@ -1,0 +1,62 @@
+BODY{
+
+background-image: url("https://www2.tc.df.gov.br/wp-content/uploads/2018/04/backgrounds-hd-desktop-1996c5eas-1s-1920x1080.jpg");
+height: 1920px;
+width: 1080px;
+}
+
+H3{
+
+background-color: darkblue;
+font: italic;
+color: white;
+font-size: 44PX;
+position: ABSOLUTE;
+top: 20PX;
+left: 350px;
+
+}
+
+#imagemFundoTexto{
+width: 80%;
+height: 150px;
+border: 1px solid black;
+border-radius: 10%;
+z-index: -1;
+position: absolute;
+top: 10px;
+left: 145px;
+margin: 20px;
+
+
+}
+
+HR{
+
+width: 100%;
+position: absolute;
+left: 10PX;
+
+}
+
+IMG{
+
+height: 180PX;
+width: 144PX;
+border: 2PX SOLID BLACK;
+border-radius: 30%;
+
+}
+
+
+A{
+color: WHITE;
+}
+
+A:visited{
+color: green;
+}
+
+A:hover{
+color: black;
+}
