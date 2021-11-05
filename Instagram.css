@@ -126,11 +126,16 @@ top: 980px;
 left: 1120px; 
   }
   
+  #rmConta{
+
+   color: blueviolet; 
+
+  }
 
   .baixeOApp{
 
     position: relative;
-    left: 250px;
+    left: 300px;
     top: 950px;
 
   }
